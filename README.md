@@ -1,1 +1,1 @@
-# itsl
+# Introduction to Statistical Learning
